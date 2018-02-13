@@ -9,5 +9,5 @@ http://php.net/manual/en/set.mongodb.php
 PHP JSON
 https://www.w3schools.com/js/js_json_php.asp
 
-Composer missing xxx, run command below
+Composer missing xxx, run command below  
 composer require jenssegers/mongodb --ignore-platform-reqs
